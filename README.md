@@ -43,3 +43,4 @@ Cell types by cluster:
 - 6. Platelets: form clots via aggregation
 - 7. Monocytes: differentiate into macrophages that devour pathogens and dendritic cells that present foreign materials to T cells
 
+The sample was likely taken from human peripheral blood undergoing early stages of infection, as indicated by the higher proportions of gamma delta T cells, nuocytes, and NK cells.
