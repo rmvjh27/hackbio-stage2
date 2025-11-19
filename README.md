@@ -32,12 +32,12 @@ Identification of different cell types in a sample can be done via single-cell R
 5. Cell annotation
 In this example, marker gene sets from PanglaoDB are used to annotate types of cells found in the sample based on their highest-ranked marker genes.
 Cell types by cluster:
-0. Neutrophils: first immune cells to respond to bacteria and viruses, destroy microorganisms through ingestion and enzyme release
-1. Plasma cells: produce antibodies that recognize and bind to antigens
-2. Gamma delta T cells: bridge innate and adaptive immunity through unique receptors, rapidly respond to infections by killing target cells and activating other adaptive immune cells
-3. Nuocytes: mediators of type 2 immune responses against parasitic worm infections
-4. NK cells: kill infected and cancerous cells without needing prior recognition
-5. Naive B cells: B cells that have not encountered an antigen, and thus have not yet differentiated into plasma cells and memory B cells
-6. Platelets: form clots via aggregation
-7. Monocytes: differentiate into macrophages that devour pathogens and dendritic cells that present foreign materials to T cells
+- 0. Neutrophils: first immune cells to respond to bacteria and viruses, destroy microorganisms through ingestion and enzyme release
+- 1. Plasma cells: produce antibodies that recognize and bind to antigens
+- 2. Gamma delta T cells: bridge innate and adaptive immunity through unique receptors, rapidly respond to infections by killing target cells and activating other adaptive immune cells
+- 3. Nuocytes: mediators of type 2 immune responses against parasitic worm infections
+- 4. NK cells: kill infected and cancerous cells without needing prior recognition
+- 5. Naive B cells: B cells that have not encountered an antigen, and thus have not yet differentiated into plasma cells and memory B cells
+- 6. Platelets: form clots via aggregation
+- 7. Monocytes: differentiate into macrophages that devour pathogens and dendritic cells that present foreign materials to T cells
 
