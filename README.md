@@ -23,7 +23,9 @@ Identification of different cell types in a sample can be done via single-cell R
 
         ![pca_cluster](https://github.com/rmvjh27/hackbio-stage2/blob/main/pca2.png)
    - Computation of the neighborhood graph of cells
-   - UMAP (Uniform Manifold Approximation and Projection) to visualize high-dimensional data in 2 or 3 dimensions and identify distinct cell populations
+   - UMAP (Uniform Manifold Approximation and Projection) to visualize high-dimensional data in 2 or 3 dimensions and identify distinct cell populations:
+  
+     ![umap](https://github.com/rmvjh27/hackbio-stage2/blob/main/umap.png)
    - Application of the Leiden clustering algorithm on the UMAP analysis result to identify cell clusters
 5. Cell annotation
    In this example, marker gene sets from PanglaoDB are used to annotate types of cells found in the sample based on their highest-ranked marker genes.
