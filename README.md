@@ -17,7 +17,7 @@ Identification of different cell types in a sample can be done via single-cell R
 4. Dimensionality Reduction and Clustering
    - Principal component analysis (PCA) to reduce data complexity and highlight key variation patterns
    - Ranking of principal components based on variance ratio (variance ratio = how much a principal component (PC) explains the variance of the data:
-     ![pca]()
+     ![pca](https://github.com/rmvjh27/hackbio-stage2/blob/main/varianceratio.png)
    - Computation of the neighborhood graph of cells
    - UMAP (Uniform Manifold Approximation and Projection) to visualize high-dimensional data in 2 or 3 dimensions and identify distinct cell populations
    - Application of the Leiden clustering algorithm on the UMAP analysis result to identify cell clusters
