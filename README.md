@@ -30,7 +30,9 @@ Identification of different cell types in a sample can be done via single-cell R
 
      ![leiden](https://github.com/rmvjh27/hackbio-stage2/blob/main/leidenclustering.png)
 5. Cell annotation
+
 In this example, marker gene sets from PanglaoDB are used to annotate types of cells found in the sample based on their highest-ranked marker genes.
+
 Cell types by cluster:
 - 0. Neutrophils: first immune cells to respond to bacteria and viruses, destroy microorganisms through ingestion and enzyme release
 - 1. Plasma cells: produce antibodies that recognize and bind to antigens
