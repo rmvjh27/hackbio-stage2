@@ -12,6 +12,8 @@ Identification of different cell types in a sample can be done via single-cell R
    - Removal of doublets
 3. Normalization
    - Normalization adjusts for sequencing depth differences between cells
+   - Normalized (left) vs non-normalized (right) mean expressions of genes:
+     ![normalization](https://github.com/rmvjh27/hackbio-stage2/blob/c5f1686104390feb65691aee6252b74a5c9468cb/download(1).png)
 4. Dimensionality Reduction and Clustering
    - Principal component analysis (PCA) to reduce data complexity and highlight key variation patterns
    - Computation of the neighborhood graph of cells
