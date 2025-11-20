@@ -8,7 +8,7 @@ Identification of different cell types in a sample can be done via single-cell R
    - decoupler: used for gene set enrichment analysis and inferring biological activities from omics data
    - Exploration of single-cell data to observe cell and gene metadata and identify the parameters that will be used
 ### 2. Quality control
-   - Removal of cells with high counts of mitochondrial or ribosomal genes: Cells with a high proportion of mitochondrial reads (e.g., >10–20%) are likely stressed, apoptotic, or poorly captured. Ribosomal transcripts represent global transcriptional activity, not cell-type-specific biology.
+   - Removal of cells with high counts of mitochondrial or ribosomal genes: Cells with a high proportion of mitochondrial reads (e.g., >10–20%) are likely stressed, apoptotic, or poorly captured. Ribosomal transcripts represent global transcriptional activity that can be found across all cell types and do not indicate a specific cell type.
    - Removal of doublets
 ### 3. Normalization
    - Normalization adjusts for sequencing depth differences between cells
